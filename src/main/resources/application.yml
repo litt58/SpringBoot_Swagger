@@ -1,0 +1,10 @@
+server:
+  port: 9999
+
+logging:
+  level: info
+  file: ./log/info.log
+
+
+
+
